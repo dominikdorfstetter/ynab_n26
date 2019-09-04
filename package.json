@@ -1,0 +1,10 @@
+{
+  "name": "ynab_n26",
+  "version": "0.0.1",
+  "description": "converts CSV output from n26 Bank into CSV readable by YNAB (YouNeedABudget)",
+  "main": "index.ts",
+  "repository": "git@github.com:dominikdorfstetter/ynab_n26.git",
+  "author": "Dominik Dorfstetter <dorfstetter@posteo.de>",
+  "license": "MIT",
+  "private": false
+}
